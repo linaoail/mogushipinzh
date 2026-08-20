@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linaoail.github.io/mogushipinzh/sitemap.xml
